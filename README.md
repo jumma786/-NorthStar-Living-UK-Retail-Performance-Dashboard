@@ -80,7 +80,8 @@ The objective is to identify key drivers of revenue, profitability, customer beh
 ---
 
 ## 🔗 Project Links  
-- 📊 Power BI Report: 
+- 📊 Power BI Report: https://qmulprod-my.sharepoint.com/:u:/r/personal/ec23683_qmul_ac_uk/Documents/NorthStar%20Living%20Retail%20Performance%20.pbix?csf=1&web=1&e=MbgNR9
+- 📊 Power BI Report: https://app.powerbi.com/groups/me/reports/62983bce-9446-4171-94bd-a9da2d0f9f4f/6a017f125aa20c993232?experience=power-bi
 - 💻 GitHub Repo:https://github.com/jumma786/-NorthStar-Living-UK-Retail-Performance-Dashboard
 
 ---
